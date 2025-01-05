@@ -1,7 +1,8 @@
-import React from "react";
+// ./pages/Home.js
+import React from 'react';
 
-function Home() {
-  return <h1>Welcome to Skillboard Lite</h1>;
-}
+const Home = () => {
+  return <h2>Welcome to the Home Page</h2>;
+};
 
 export default Home;

@@ -1,11 +1,10 @@
-import React from "react";
-import Logout from "../components/Logout";
+import React from 'react';
 
 function Dashboard() {
   return (
     <div>
-      <h1>Welcome to your Dashboard</h1>
-      <Logout />
+      <h2>Dashboard</h2>
+      <p>Welcome to your dashboard!</p>
     </div>
   );
 }
